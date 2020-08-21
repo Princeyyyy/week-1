@@ -16,6 +16,8 @@ body {
 }
 h3 {
     color: white;
+    text-align: center;
+    font-size: large;
 }
 ul {
     color: white;
@@ -24,4 +26,13 @@ h4 {
     color: white;
     text-align: center;
     font-size: xx-large;
+}
+p {
+    color: white;
+}
+span {
+    color: red;
+}
+.p {
+    color: blue;
 }
