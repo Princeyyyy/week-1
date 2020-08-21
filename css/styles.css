@@ -1,0 +1,22 @@
+h1 {
+    font-size:xx-large;
+    color: blueviolet;
+    text-align: center;
+    font-style: italic;
+}
+h2 {
+    text-align: center;
+    color: cornflowerblue;
+}
+img {
+    float: right;
+}
+body {
+    background-image:url(../images/background.jpg);
+}
+h3 {
+    color: white;
+}
+ul {
+    color: white;
+}
